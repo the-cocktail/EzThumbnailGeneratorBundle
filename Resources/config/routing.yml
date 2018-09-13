@@ -1,0 +1,3 @@
+ez_thumbnail_generator_homepage:
+    path:     /
+    defaults: { _controller: EzThumbnailGeneratorBundle:Default:index }

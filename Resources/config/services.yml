@@ -1,0 +1,6 @@
+services:
+    TheCocktail\EzThumbnailGeneratorBundle\Command\ThumbnailGeneratorCommand:
+        arguments:
+            - '@ezpublish.api.inner_repository'
+        tags:
+            - { name: 'console.command', command: 'tck:ez:generate-thumbnails' }
