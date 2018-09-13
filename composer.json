@@ -1,5 +1,5 @@
 {
-  "name": "the-cocktail/EzThumbnailGeneratorBundle",
+  "name": "the-cocktail/ez-thumbnail-generator-bundle",
   "description": "Thumbnail Generator for eZ Platform",
   "license": "GPL-2.0",
   "type": "ezplatform-bundle",
@@ -13,6 +13,6 @@
     "ezsystems/ezpublish-kernel": "~7.1.0"
   },
   "autoload": {
-    "psr-0": {"TheCocktail\\EzThumbnailGeneratorBundle\\": "vendor/TheCocktail/EzThumbnailGeneratorBundle"}
+    "psr-0": {"TheCocktail\\EzThumbnailGeneratorBundle\\": "vendor/the-cocktail/ez-thumbnail-generator-bundle"}
   }
 }
