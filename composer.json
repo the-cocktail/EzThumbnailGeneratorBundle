@@ -6,10 +6,6 @@
   "authors": [
     {
       "name": "The Cocktail"
-    },
-    {
-      "name": "fjespinosa",
-      "email": "francisco.espinosa@the-cocktail.com"
     }
   ],
   "minimum-stability": "stable",
