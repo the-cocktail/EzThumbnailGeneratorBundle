@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TheCocktail\\EzThumbnailGeneratorBundle\\": "the-cocktail/ez-thumbnail-generator-bundle"
+      "TheCocktail\\EzThumbnailGeneratorBundle\\": ""
     }
   }
 }
